@@ -1,0 +1,7 @@
+{
+  "name": "Rafikunnabi Piash - Portfolio",
+  "description": "A modern, responsive portfolio for Rafikunnabi Piash, featuring developer-focused UI/UX design and a Gemini-powered resume assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
